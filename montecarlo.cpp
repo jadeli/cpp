@@ -30,7 +30,7 @@ public:
     }
 };
 
-// random number generator class
+// random number generator
 // you must call Rand::init() first before you call Rand::next(), 
 // otherwise you will get the same result every time.
 class Rand
